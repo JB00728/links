@@ -1,2 +1,4 @@
 # links
 some text
+!@#$%^&*()
+- # hash
