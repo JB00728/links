@@ -1,4 +1,3 @@
-# links
-some text
-!@#$%^&*()
-#* hash
+# Number row characters
+
+
