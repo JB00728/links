@@ -11,8 +11,8 @@
 - digit 9  (
 - digit 0  )
 
-  #link
+#link
 
-  [CSS Tutorial](https://www.w3schools.com/css/default.asp)
-  [HTML Tutorial](https://www.w3schools.com/html/default.asp)
-  
+- [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
